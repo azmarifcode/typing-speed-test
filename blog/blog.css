@@ -1,0 +1,14 @@
+.navbar {
+    background-color: #2c2c2c;
+    height: 60px;
+}
+
+.container-fluid {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 100px !important;
+    font-size: 1.5rem;
+}
+.container-fluid a {
+    color: whitesmoke;
+}
